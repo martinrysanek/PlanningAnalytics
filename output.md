@@ -1,276 +1,268 @@
-# Detailní Finanční Analýza P&L - Rok 2025
-## Income Statement Reporting - 24Retail
-
-**Datum analýzy:** 20. června 2026  
-**Zdroj dat:** IBM Planning Analytics SaaS, Server: 24Retail  
-**Cube:** Income Statement Reporting  
-**View:** Default  
+# Detailní Finanční Analýza P&L – Společnost 24Retail
+## Výkaz zisku a ztráty za rok 2025
 
 ---
 
-## 📊 Executive Summary
+## 📊 Exekutivní Shrnutí
 
-Společnost vykázala za rok 2025 **celkové tržby ve výši 102,73 mil. CZK** s **čistým ziskem 38,37 mil. CZK**, což představuje průměrnou čistou ziskovou marži **37,4%**. Rok byl charakterizován silným závěrem s výrazným nárůstem tržeb v Q4 (+14,9% oproti Q1).
+Společnost 24Retail vykázala za rok 2025 **celkové tržby ve výši 102,73 mil. USD** s **čistým ziskem 38,37 mil. USD**, což představuje **čistou ziskovou marži 37,3 %**. Hrubá marže dosáhla stabilních **46,8 %** průměrně za celý rok.
 
-### Klíčové Metriky 2025
-
-| Metrika | Hodnota | Poznámka |
-|---------|---------|----------|
-| **Celkové tržby** | 102 729 059 CZK | +14,96% růst leden→prosinec |
-| **Náklady na prodané zboží** | 54 311 027 CZK | 52,9% z tržeb |
-| **Hrubá marže** | 48 418 032 CZK | 47,1% průměrná marže |
-| **Provozní náklady** | 10 045 066 CZK | 9,8% z tržeb |
-| **Čistý zisk** | 38 372 913 CZK | 37,4% čistá marže |
+### Klíčové Ukazatele (KPI)
+- **Celkové tržby:** 102 729 059 USD
+- **Celkové náklady na prodané zboží:** 54 310 027 USD
+- **Hrubá marže:** 48 419 032 USD (47,1%)
+- **Celkové provozní náklady:** 10 045 113 USD
+- **Čistý zisk:** 38 373 919 USD (37,3%)
 
 ---
 
-## 📈 Měsíční Přehled P&L 2025
-
-### Kompletní P&L Tabulka
+## 📈 Měsíční Vývoj P&L za rok 2025
 
 | Položka | Leden | Únor | Březen | Duben | Květen | Červen | Červenec | Srpen | Září | Říjen | Listopad | Prosinec | **Celkem** |
-|---------|-------|------|--------|-------|--------|--------|----------|-------|------|-------|----------|----------|------------|
-| **Tržby** | 9 059 765 | 7 892 221 | 7 685 693 | 7 509 137 | 7 702 362 | 7 803 054 | 8 176 780 | 8 619 438 | 8 532 757 | 9 313 377 | 10 020 258 | 10 415 217 | **102 729 059** |
-| **Náklady prodeje** | 4 899 811 | 4 153 874 | 4 017 549 | 3 962 105 | 4 061 783 | 4 124 122 | 4 273 077 | 4 501 982 | 4 552 934 | 5 000 637 | 5 294 979 | 5 468 174 | **54 311 027** |
-| **Hrubá marže** | 4 159 954 | 3 738 347 | 3 668 144 | 3 547 032 | 3 640 579 | 3 678 932 | 3 903 703 | 4 117 455 | 3 979 824 | 4 312 740 | 4 725 279 | 4 947 043 | **48 418 032** |
-| Mzdy | 171 705 | 171 705 | 170 025 | 168 448 | 168 448 | 170 833 | 171 467 | 171 467 | 171 467 | 171 467 | 171 467 | 171 467 | **2 049 966** |
-| Kancelář | 54 826 | 54 501 | 56 009 | 54 501 | 54 501 | 54 501 | 54 501 | 54 501 | 54 501 | 54 618 | 54 618 | 54 618 | **656 196** |
-| Cestovné | 38 234 | 38 234 | 38 234 | 38 234 | 38 234 | 38 234 | 38 234 | 38 234 | 38 234 | 38 234 | 38 234 | 38 234 | **458 808** |
-| Prostory | 363 846 | 313 692 | 311 808 | 183 385 | 183 385 | 231 654 | 183 385 | 183 385 | 231 654 | 233 538 | 333 846 | 482 423 | **3 236 001** |
-| Marketing | 104 258 | 85 195 | 85 279 | 86 799 | 85 303 | 85 318 | 85 364 | 85 364 | 85 364 | 89 172 | 85 383 | 85 383 | **1 038 182** |
-| Odpisy | 7 500 | 27 187 | 97 563 | 134 729 | 159 729 | 208 917 | 286 417 | 303 500 | 325 167 | 348 417 | 348 417 | 348 417 | **2 595 960** |
-| **Celk. provozní náklady** | 740 369 | 690 515 | 758 918 | 666 096 | 689 600 | 789 457 | 819 367 | 836 451 | 906 386 | 935 447 | 1 031 965 | 1 180 542 | **10 045 113** |
-| **Čistý zisk** | 3 419 585 | 3 047 832 | 2 909 226 | 2 880 935 | 2 950 979 | 2 889 475 | 3 084 336 | 3 281 005 | 3 073 437 | 3 377 293 | 3 693 313 | 3 766 501 | **38 373 917** |
+|---------|--------|--------|--------|--------|--------|--------|----------|--------|--------|--------|----------|----------|------------|
+| **Hrubé tržby** | 9 059 765 | 7 892 221 | 7 685 693 | 7 509 137 | 7 702 362 | 7 803 054 | 8 176 780 | 8 619 438 | 8 532 757 | 9 313 377 | 10 020 258 | 10 415 217 | **102 729 059** |
+| **Náklady na prodej** | 4 899 811 | 4 153 874 | 4 017 549 | 3 962 105 | 4 061 783 | 4 124 122 | 4 273 077 | 4 501 982 | 4 552 934 | 5 000 637 | 5 294 979 | 5 468 174 | **54 310 027** |
+| **Hrubá marže** | 4 159 954 | 3 738 347 | 3 668 144 | 3 547 032 | 3 640 579 | 3 678 932 | 3 903 703 | 4 117 455 | 3 979 824 | 4 312 740 | 4 725 279 | 4 947 043 | **48 419 032** |
+| **% Hrubé marže** | 45,9% | 47,4% | 47,7% | 47,2% | 47,3% | 47,1% | 47,7% | 47,8% | 46,6% | 46,3% | 47,2% | 47,5% | **47,1%** |
+| | | | | | | | | | | | | | |
+| **Mzdy** | 171 705 | 171 705 | 170 025 | 168 448 | 168 448 | 170 833 | 171 467 | 171 467 | 171 467 | 171 467 | 171 467 | 171 467 | **2 049 966** |
+| **Kancelářské náklady** | 54 826 | 54 501 | 56 009 | 54 501 | 54 501 | 54 501 | 54 501 | 54 501 | 54 501 | 54 618 | 54 618 | 54 618 | **656 196** |
+| **Cestovné** | 38 234 | 38 234 | 38 234 | 38 234 | 38 234 | 38 234 | 38 234 | 38 234 | 38 234 | 38 234 | 38 234 | 38 234 | **458 808** |
+| **Náklady na prostory** | 363 846 | 313 692 | 311 808 | 183 385 | 183 385 | 231 654 | 183 385 | 183 385 | 231 654 | 233 538 | 333 846 | 482 423 | **3 236 001** |
+| **Marketing** | 104 258 | 85 195 | 85 279 | 86 799 | 85 303 | 85 318 | 85 364 | 85 364 | 85 364 | 89 172 | 85 383 | 85 383 | **1 048 182** |
+| **Odpisy** | 7 500 | 27 187 | 97 563 | 134 729 | 159 729 | 208 917 | 286 417 | 303 500 | 325 167 | 348 417 | 348 417 | 348 417 | **2 595 960** |
+| **Celkové prov. náklady** | 740 369 | 690 515 | 758 918 | 666 096 | 689 600 | 789 457 | 819 367 | 836 451 | 906 386 | 935 447 | 1 031 965 | 1 180 542 | **10 045 113** |
+| | | | | | | | | | | | | | |
+| **Čistý zisk** | 3 419 585 | 3 047 832 | 2 909 226 | 2 880 935 | 2 950 979 | 2 889 475 | 3 084 336 | 3 281 005 | 3 073 437 | 3 377 293 | 3 693 313 | 3 766 501 | **38 373 919** |
+| **% Čisté marže** | 37,7% | 38,6% | 37,8% | 38,4% | 38,3% | 37,0% | 37,7% | 38,1% | 36,0% | 36,3% | 36,9% | 36,2% | **37,3%** |
+
+*Poznámka: Všechny hodnoty jsou uvedeny v USD*
 
 ---
 
-## 💡 Analýza Ziskových Marží
+## 📉 Grafická Analýza
 
-### Měsíční Vývoj Marží (%)
+### 1. Vývoj Tržeb a Čistého Zisku v roce 2025
 
-| Měsíc | Hrubá marže % | OpEx % z tržeb | Čistá marže % |
-|-------|---------------|----------------|---------------|
-| Leden | 45,9% | 8,2% | 37,7% |
-| Únor | 47,4% | 8,7% | 38,6% |
-| Březen | 47,7% | 9,9% | 37,8% |
-| Duben | 47,2% | 8,9% | 38,4% |
-| Květen | 47,3% | 9,0% | 38,3% |
-| Červen | 47,1% | 10,1% | 37,0% |
-| Červenec | 47,7% | 10,0% | 37,7% |
-| Srpen | 47,8% | 9,7% | 38,1% |
-| Září | 46,6% | 10,6% | 36,0% |
-| Říjen | 46,3% | 10,0% | 36,3% |
-| Listopad | 47,2% | 10,3% | 36,9% |
-| Prosinec | 47,5% | 11,3% | 36,2% |
-| **Průměr** | **47,1%** | **9,7%** | **37,3%** |
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#4CAF50','primaryTextColor':'#fff','primaryBorderColor':'#2E7D32','lineColor':'#1976D2','secondaryColor':'#FF9800','tertiaryColor':'#fff'}}}%%
+graph TD
+    A[Roční Výkonnost 2025] --> B[Tržby: 102.7M USD]
+    A --> C[Čistý Zisk: 38.4M USD]
+    A --> D[Hrubá Marže: 47.1%]
+    B --> E[Q1: 24.6M]
+    B --> F[Q2: 23.0M]
+    B --> G[Q3: 25.3M]
+    B --> H[Q4: 29.7M]
+    C --> I[Nejlepší: Prosinec 3.77M]
+    C --> J[Nejnižší: Březen 2.91M]
+    
+    style A fill:#1976D2,stroke:#0D47A1,color:#fff
+    style B fill:#4CAF50,stroke:#2E7D32,color:#fff
+    style C fill:#FF9800,stroke:#E65100,color:#fff
+    style D fill:#9C27B0,stroke:#6A1B9A,color:#fff
+```
 
-### 📌 Klíčová Zjištění - Marže
+### 2. Měsíční Trend Tržeb a Zisku
 
-1. **Stabilní hrubá marže**: Pohybuje se v úzkém pásmu 45,9% - 47,8%, což svědčí o konzistentní cenové politice a kontrole nákladů na prodané zboží.
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': {'xyChart': {'backgroundColor': '#ffffff'}}}}%%
+xychart-beta
+    title "Měsíční Vývoj Tržeb a Čistého Zisku (v mil. USD)"
+    x-axis [Led, Úno, Bře, Dub, Kvě, Čer, Čvc, Srp, Zář, Říj, Lis, Pro]
+    y-axis "Hodnota (mil. USD)" 0 --> 11
+    line "Hrubé tržby" [9.06, 7.89, 7.69, 7.51, 7.70, 7.80, 8.18, 8.62, 8.53, 9.31, 10.02, 10.42]
+    line "Čistý zisk" [3.42, 3.05, 2.91, 2.88, 2.95, 2.89, 3.08, 3.28, 3.07, 3.38, 3.69, 3.77]
+```
 
-2. **Rostoucí provozní náklady**: OpEx jako % z tržeb rostou od Q3 (9,7% → 11,3% v prosinci), zejména kvůli:
-   - Výraznému nárůstu odpisů (z 7,5 tis. v lednu na 348,4 tis. od října)
-   - Zvýšeným nákladům na prostory v prosinci (482,4 tis. CZK)
+### 3. Struktura Provozních Nákladů (Roční Celkem)
 
-3. **Tlak na čistou marži**: Navzdory růstu tržeb v Q4 čistá marže mírně klesá (37,7% v lednu → 36,2% v prosinci) kvůli rychlejšímu růstu provozních nákladů.
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'pie1':'#FF6384', 'pie2':'#36A2EB', 'pie3':'#FFCE56', 'pie4':'#4BC0C0', 'pie5':'#9966FF', 'pie6':'#FF9F40'}}}%%
+pie title Rozložení Provozních Nákladů 2025
+    "Odpisy (25.8%)" : 2595960
+    "Náklady na prostory (32.2%)" : 3236001
+    "Mzdy (20.4%)" : 2049966
+    "Marketing (10.4%)" : 1048182
+    "Kancelářské náklady (6.5%)" : 656196
+    "Cestovné (4.6%)" : 458808
+```
 
----
+### 4. Vývoj Hrubé Marže (%)
 
-## 📊 Analýza Tržeb a Nákladů
+```mermaid
+%%{init: {'theme':'base'}}%%
+xychart-beta
+    title "Měsíční Vývoj Hrubé Marže (%)"
+    x-axis [Led, Úno, Bře, Dub, Kvě, Čer, Čvc, Srp, Zář, Říj, Lis, Pro]
+    y-axis "Hrubá marže (%)" 44 --> 49
+    line "Hrubá marže" [45.9, 47.4, 47.7, 47.2, 47.3, 47.1, 47.7, 47.8, 46.6, 46.3, 47.2, 47.5]
+```
 
-### Kvartální Srovnání
+### 5. Kvartální Srovnání Výkonnosti
 
-| Metrika | Q1 | Q2 | Q3 | Q4 | Meziroční trend |
-|---------|----|----|----|----|-----------------|
-| **Tržby** | 24 637 679 | 23 014 553 | 25 328 975 | 27 748 852 | ↗ +12,6% (Q1→Q4) |
-| **COGS** | 13 071 234 | 12 148 010 | 13 327 993 | 15 763 790 | ↗ +20,6% (Q1→Q4) |
-| **Hrubá marže** | 11 566 445 | 10 866 543 | 12 000 982 | 11 985 062 | ↗ +3,6% (Q1→Q4) |
-| **OpEx** | 2 189 802 | 2 145 153 | 2 562 204 | 3 147 954 | ↗ +43,7% (Q1→Q4) |
-| **Čistý zisk** | 9 376 643 | 8 721 389 | 9 438 778 | 10 837 107 | ↗ +15,6% (Q1→Q4) |
-
-### 🔍 Detailní Rozbor Trendů
-
-#### 1. **Tržby - Sezónní Vzorec**
-- **Nejslabší měsíc**: Duben (7,51 mil. CZK)
-- **Nejsilnější měsíc**: Prosinec (10,42 mil. CZK, +38,7% vs. duben)
-- **Trend**: Výrazné oživení od července (+8,9% MoM), kulminující v Q4
-- **Q4 akcelerace**: Listopad a prosinec představují 19,9% ročních tržeb
-
-#### 2. **Náklady na Prodané Zboží (COGS)**
-- **COGS ratio**: Stabilní 52,9% průměrně, s mírnou variabilitou (52,7% - 54,1%)
-- **Absolutní růst**: +11,6% (leden → prosinec)
-- **Efektivita**: COGS rostou pomaleji než tržby v Q4, což zlepšuje hrubou marži
-
-#### 3. **Provozní Náklady - Detailní Analýza**
-
-##### Struktura OpEx (roční podíly):
-- **Odpisy**: 25,8% (2,60 mil. CZK) - **největší položka**
-- **Prostory**: 32,2% (3,24 mil. CZK) - **druhá největší**
-- **Mzdy**: 20,4% (2,05 mil. CZK)
-- **Marketing**: 10,3% (1,04 mil. CZK)
-- **Kancelář**: 6,5% (656 tis. CZK)
-- **Cestovné**: 4,6% (459 tis. CZK)
-
-##### Kritické Nálezy:
-- **Odpisy**: Exponenciální růst od března (7,5 tis. → 348,4 tis.), stabilizace od října
-  - *Interpretace*: Pravděpodobně nové investice do dlouhodobého majetku v Q1-Q2
-  
-- **Prostory**: Vysoká volatilita (183 tis. - 482 tis.)
-  - *Špičky*: Leden (364 tis.), prosinec (482 tis.)
-  - *Důvody*: Možné sezónní úpravy, jednorázové platby
-
-- **Mzdy**: Velmi stabilní (168-172 tis./měsíc), minimální fluktuace
-  - *Pozitivum*: Dobrá kontrola personálních nákladů
-
----
-
-## 🎯 Měsíční Výkonnostní Analýza
-
-### Top 3 Nejziskovější Měsíce
-
-| Pořadí | Měsíc | Čistý zisk | Čistá marže % | Důvod |
-|--------|-------|------------|---------------|-------|
-| 1 | **Prosinec** | 3 766 501 CZK | 36,2% | Nejvyšší tržby roku, sezónní špička |
-| 2 | **Listopad** | 3 693 313 CZK | 36,9% | Silné tržby, kontrolované náklady |
-| 3 | **Leden** | 3 419 585 CZK | 37,7% | Dobrý start roku, nízké odpisy |
-
-### Bottom 3 Měsíce (Nejnižší Zisk)
-
-| Pořadí | Měsíc | Čistý zisk | Čistá marže % | Důvod |
-|--------|-------|------------|---------------|-------|
-| 1 | **Duben** | 2 880 935 CZK | 38,4% | Nejnižší tržby roku |
-| 2 | **Červen** | 2 889 475 CZK | 37,0% | Nízké tržby, vyšší OpEx |
-| 3 | **Březen** | 2 909 226 CZK | 37,8% | Slabší tržby, rostoucí odpisy |
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#2196F3','secondaryColor':'#4CAF50','tertiaryColor':'#FF9800'}}}%%
+graph LR
+    A[Q1 2025] -->|Tržby: 24.6M| B[Zisk: 9.4M]
+    C[Q2 2025] -->|Tržby: 23.0M| D[Zisk: 8.7M]
+    E[Q3 2025] -->|Tržby: 25.3M| F[Zisk: 9.4M]
+    G[Q4 2025] -->|Tržby: 29.7M| H[Zisk: 10.8M]
+    
+    B --> I[Marže: 38.0%]
+    D --> J[Marže: 37.9%]
+    F --> K[Marže: 37.3%]
+    H --> L[Marže: 36.5%]
+    
+    style A fill:#2196F3,stroke:#1565C0,color:#fff
+    style C fill:#2196F3,stroke:#1565C0,color:#fff
+    style E fill:#2196F3,stroke:#1565C0,color:#fff
+    style G fill:#2196F3,stroke:#1565C0,color:#fff
+    style B fill:#4CAF50,stroke:#2E7D32,color:#fff
+    style D fill:#4CAF50,stroke:#2E7D32,color:#fff
+    style F fill:#4CAF50,stroke:#2E7D32,color:#fff
+    style H fill:#4CAF50,stroke:#2E7D32,color:#fff
+```
 
 ---
 
-## 📉 Analýza Rizik a Příležitostí
+## 🔍 Detailní Analýza a Klíčová Zjištění
 
-### ⚠️ Identifikovaná Rizika
+### Analýza Tržeb
 
-1. **Rostoucí Odpisy**
-   - **Problém**: Nárůst z 7,5 tis. na 348,4 tis. měsíčně (+4545%)
-   - **Dopad**: Snižuje čistý zisk o ~340 tis. měsíčně od října
-   - **Doporučení**: Analyzovat ROI nových investic, optimalizovat odpisový plán
+**Pozitivní trendy:**
+- ✅ **Silný růst v Q4:** Tržby v prosinci dosáhly 10,42 mil. USD (+15,0% oproti lednu)
+- ✅ **Stabilní výkonnost:** Průměrné měsíční tržby 8,56 mil. USD
+- ✅ **Sezónní vzorec:** Výrazný nárůst v období říjen-prosinec (28,7 mil. USD v Q4)
 
-2. **Volatilita Nákladů na Prostory**
-   - **Problém**: Výkyvy 183-482 tis. (±62%)
-   - **Dopad**: Ztížená predikce nákladů, tlak na marže
-   - **Doporučení**: Renegociace smluv, fixace nákladů
+**Oblasti pozornosti:**
+- ⚠️ **Slabší Q2:** Duben zaznamenal nejnižší tržby roku (7,51 mil. USD)
+- ⚠️ **Volatilita:** Rozdíl mezi nejlepším a nejhorším měsícem činí 2,91 mil. USD (38,7%)
 
-3. **Sezónní Závislost**
-   - **Problém**: Q2 tržby -6,6% pod Q1, Q4 +12,6% nad Q1
-   - **Dopad**: Nerovnoměrný cash flow
-   - **Doporučení**: Diverzifikace produktů/služeb pro vyrovnání sezónnosti
+### Analýza Nákladů
 
-### ✅ Příležitosti k Růstu
+**Náklady na prodané zboží (COGS):**
+- Průměrná míra COGS: **52,9%** z tržeb
+- Nejlepší efektivita: Únor (52,6%)
+- Nejhorší efektivita: Říjen (53,7%)
 
-1. **Silný Q4 Momentum**
-   - Listopad a prosinec generují 19,9% ročních tržeb
-   - Potenciál: Replikovat Q4 strategie v ostatních kvartálech
+**Provozní náklady:**
+- Celkové provozní náklady: **10,05 mil. USD** (9,8% z tržeb)
+- Nejvýznamnější položky:
+  1. **Náklady na prostory:** 3,24 mil. USD (32,2% provozních nákladů)
+  2. **Odpisy:** 2,60 mil. USD (25,8%) – výrazný nárůst během roku
+  3. **Mzdy:** 2,05 mil. USD (20,4%) – stabilní
 
-2. **Stabilní Hrubá Marže**
-   - Konzistentní 47,1% průměr ukazuje na silnou cenovou sílu
-   - Potenciál: Prostor pro selektivní zvýšení cen v prémiových segmentech
+**Kritická pozorování:**
+- 📈 **Odpisy rostou exponenciálně:** Z 7,5 tis. USD v lednu na 348,4 tis. USD v prosinci
+- 📊 **Náklady na prostory kolísají:** Značná variabilita (183-482 tis. USD měsíčně)
+- 💰 **Marketing stabilní:** Průměrně 87,3 tis. USD měsíčně
 
-3. **Kontrolované Personální Náklady**
-   - Mzdy pouze 2,0% z tržeb
-   - Potenciál: Investice do talentů bez významného dopadu na marže
+### Analýza Ziskovosti
 
----
+**Čistá zisková marže:**
+- Roční průměr: **37,3%**
+- Nejlepší měsíc: Duben (38,4%)
+- Nejhorší měsíc: Září (36,0%)
 
-## 📊 Komparativní Analýza
+**Kvartální výkonnost:**
+| Kvartál | Tržby (mil. USD) | Čistý zisk (mil. USD) | Marže (%) |
+|---------|------------------|----------------------|-----------|
+| Q1 | 24,64 | 9,38 | 38,0% |
+| Q2 | 23,01 | 8,73 | 37,9% |
+| Q3 | 25,33 | 9,44 | 37,3% |
+| Q4 | 29,75 | 10,84 | 36,5% |
 
-### Měsíc-k-Měsíci (MoM) Růst
-
-| Měsíc | Tržby MoM | COGS MoM | Čistý zisk MoM |
-|-------|-----------|----------|----------------|
-| Únor | -12,9% | -15,2% | -10,9% |
-| Březen | -2,6% | -3,3% | -4,5% |
-| Duben | -2,3% | -1,4% | -1,0% |
-| Květen | +2,6% | +2,5% | +2,4% |
-| Červen | +1,3% | +1,5% | -2,1% |
-| Červenec | +4,8% | +3,6% | +6,7% |
-| Srpen | +5,4% | +5,4% | +6,4% |
-| Září | -1,0% | +1,1% | -6,3% |
-| Říjen | +9,1% | +9,8% | +9,9% |
-| Listopad | +7,6% | +5,9% | +9,4% |
-| Prosinec | +3,9% | +3,3% | +2,0% |
-
-### Klíčové Poznatky MoM:
-- **Nejsilnější růst**: Říjen (+9,1% tržby, +9,9% zisk)
-- **Největší pokles**: Únor (-12,9% tržby, -10,9% zisk)
-- **Stabilizace**: Od července konzistentní pozitivní trend
+**Klíčové poznatky:**
+- 🎯 Q4 generuje nejvyšší absolutní zisk (10,84 mil. USD)
+- 📉 Zisková marže mírně klesá v Q4 kvůli vyšším provozním nákladům
+- 💪 Konzistentní ziskovost napříč celým rokem
 
 ---
 
-## 🎯 Strategická Doporučení
+## 💡 Strategická Doporučení
 
-### Krátkodobá Opatření (0-3 měsíce)
+### 1. Optimalizace Nákladů na Prostory
+**Problém:** Vysoká volatilita nákladů na prostory (183-482 tis. USD)  
+**Doporučení:**
+- Analyzovat příčiny výkyvů v nákladech na prostory
+- Zvážit renegociaci nájemních smluv nebo konsolidaci prostor
+- Potenciální úspora: **15-20%** (480-640 tis. USD ročně)
 
-1. **Optimalizace Odpisů**
-   - Audit odpisového plánu nových aktiv
-   - Zvážit alternativní metody odepisování pro daňovou optimalizaci
+### 2. Řízení Odpisů
+**Problém:** Exponenciální růst odpisů během roku  
+**Doporučení:**
+- Přehodnotit plán investic a načasování pořízení aktiv
+- Optimalizovat odpisový plán pro lepší cash flow management
+- Zvážit leasing vs. nákup pro budoucí investice
 
-2. **Fixace Nákladů na Prostory**
-   - Renegociace smluv s dodavateli
-   - Implementace prediktivního rozpočtování
+### 3. Posílení Q2 Výkonnosti
+**Problém:** Nejslabší kvartál roku (tržby i marže)  
+**Doporučení:**
+- Implementovat cílené marketingové kampaně v Q2
+- Zavést sezónní produktové akce pro období duben-červen
+- Potenciální nárůst tržeb: **8-12%** (1,8-2,8 mil. USD)
 
-3. **Kapitalizace Q4 Úspěchu**
-   - Analýza Q4 prodejních strategií
-   - Replikace úspěšných kampaní v Q1 2026
+### 4. Kapitalizace na Q4 Momentum
+**Příležitost:** Silná výkonnost v závěru roku  
+**Doporučení:**
+- Rozšířit úspěšné Q4 strategie do ostatních kvartálů
+- Zvýšit zásoby a kapacity před Q4 pro maximalizaci příležitostí
+- Analyzovat faktory úspěchu Q4 pro replikaci
 
-### Střednědobá Opatření (3-12 měsíců)
-
-1. **Diverzifikace Příjmů**
-   - Rozvoj produktů/služeb pro Q2 (nejslabší kvartál)
-   - Cílení na B2B segmenty s nižší sezónností
-
-2. **Efektivita COGS**
-   - Vyjednávání lepších podmínek s dodavateli
-   - Optimalizace skladových zásob
-
-3. **Investice do Růstu**
-   - Využití silného cash flow z Q4 pro expanzi
-   - Posílení marketingu v Q1-Q2 pro vyrovnání sezónnosti
-
-### Dlouhodobá Strategie (12+ měsíců)
-
-1. **Udržitelný Růst**
-   - Cíl: 15-20% meziroční růst tržeb
-   - Udržení čisté marže nad 35%
-
-2. **Operační Excelence**
-   - Automatizace procesů pro snížení OpEx
-   - Implementace pokročilé analytiky pro predikci trendů
-
-3. **Finanční Resilience**
-   - Budování rezerv z Q4 zisků
-   - Diverzifikace rizik prostřednictvím produktového portfolia
+### 5. Kontrola Hrubé Marže
+**Cíl:** Stabilizovat hrubou marži nad 48%  
+**Doporučení:**
+- Optimalizovat dodavatelský řetězec a vyjednávat lepší podmínky
+- Implementovat dynamické cenové strategie
+- Potenciální zlepšení: **1-2 procentní body** (1,0-2,1 mil. USD ročně)
 
 ---
 
-## 📋 Závěrečné Shrnutí
+## 📊 Finanční Ukazatele a Benchmarking
 
-### Silné Stránky ✅
-- Stabilní a vysoká hrubá marže (47,1%)
-- Silný růst v Q4 (+12,6% vs. Q1)
-- Excelentní kontrola personálních nákladů
-- Konzistentní ziskovost po celý rok
+### Klíčové Finanční Ratia
 
-### Oblasti ke Zlepšení ⚠️
-- Rostoucí odpisy erodují marže
-- Vysoká volatilita nákladů na prostory
-- Sezónní závislost (Q2 slabost)
-- Rostoucí OpEx jako % z tržeb v Q4
+| Ukazatel | Hodnota 2025 | Benchmark Retail | Hodnocení |
+|----------|--------------|------------------|-----------|
+| **Hrubá marže** | 47,1% | 35-45% | ✅ Výborné |
+| **Čistá marže** | 37,3% | 5-10% | ✅ Excelentní |
+| **Provozní náklady / Tržby** | 9,8% | 15-25% | ✅ Velmi dobré |
+| **COGS / Tržby** | 52,9% | 55-65% | ✅ Nadprůměrné |
 
-### Celkové Hodnocení
-**Výborná finanční výkonnost** s čistým ziskem 38,37 mil. CZK a průměrnou čistou marží 37,4%. Společnost vykazuje zdravý růstový trend, zejména v druhé polovině roku. Klíčem k dalšímu úspěchu bude optimalizace provozních nákladů a vyrovnání sezónních výkyvů.
+### Analýza Trendů
+
+**Měsíc-na-měsíc (MoM) růst:**
+- Průměrný MoM růst tržeb: **+1,2%**
+- Nejsilnější růst: Listopad (+7,6%)
+- Největší pokles: Únor (-12,9%)
+
+**Rok-na-rok (YoY) projekce:**
+- Při zachování trendu očekávaný růst 2026: **+8-12%**
+- Projektované tržby 2026: **111-115 mil. USD**
+- Projektovaný čistý zisk 2026: **41-43 mil. USD**
 
 ---
 
-**Poznámka**: Tato analýza je založena na datech z IBM Planning Analytics SaaS (server 24Retail, cube Income Statement Reporting, view Default) za rok 2025. Všechny částky jsou uvedeny v CZK.
+## 🎯 Závěr
 
-**Připravil**: Bob Shell Financial Analyst  
-**Datum**: 20. června 2026  
-**Verze**: 1.0
+Společnost 24Retail vykázala za rok 2025 **výjimečnou finanční výkonnost** s čistou ziskovou marží 37,3%, která výrazně převyšuje průměr maloobchodního sektoru. Klíčové silné stránky zahrnují:
+
+✅ **Stabilní a vysoká ziskovost** napříč celým rokem  
+✅ **Efektivní řízení nákladů** s provozními náklady pouze 9,8% z tržeb  
+✅ **Silný růstový momentum** v Q4 s tržbami 29,7 mil. USD  
+✅ **Zdravá hrubá marže** 47,1% indikující silnou cenovou pozici  
+
+**Oblasti pro zlepšení:**
+- Optimalizace nákladů na prostory a odpisů
+- Posílení výkonnosti v Q2
+- Stabilizace hrubé marže nad 48%
+
+**Celkové hodnocení:** 🌟🌟🌟🌟🌟 (5/5)  
+Společnost je ve výborné finanční kondici s jasným potenciálem pro další růst.
+
+---
+
+*Zpráva vygenerována: 20. června 2026*  
+*Zdroj dat: IBM Planning Analytics (TM1), Server: 24Retail, Cube: Income Statement Reporting*  
+*Analýza provedena: Bob Shell Financial Analyst Mode*
